@@ -1,0 +1,17 @@
+.row > div {
+	padding: 5px;
+    background-color: rgb(76, 161, 245);
+    text-align: center;
+}
+
+.body > div {
+    height: 300px;
+}
+
+.hero > div {
+    height: 150px;
+}
+
+.row {
+	margin: 10px;
+}
