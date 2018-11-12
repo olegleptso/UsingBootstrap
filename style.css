@@ -1,17 +1,12 @@
-.row > div {
-	padding: 5px;
+.block {
+    background-color: blue;
+}
+
+.blockStyle {
     background-color: rgb(76, 161, 245);
-    text-align: center;
 }
 
-.body > div {
-    height: 300px;
-}
-
-.hero > div {
-    height: 150px;
-}
-
-.row {
-	margin: 10px;
+.parentText {
+    font-weight: 1000;
+    font-size: 24px;
 }
